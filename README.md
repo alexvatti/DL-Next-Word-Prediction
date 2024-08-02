@@ -23,7 +23,7 @@ In this project,Next word prediction using Deep Learning, Recurrent Neural Netwo
 involves training on large text datasets to learn the context and dependencies between words, 
 enabling the generation of coherent and contextually relevant text..
 
-![](Images/directory-view.png)
+![](Image.jpg)
   
 ## Project Highlights
 
