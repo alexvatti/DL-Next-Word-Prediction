@@ -1,7 +1,5 @@
 # DL-Next-Word-Prediction
 
-# DL-Text-Classify
-
 Deep Learning (DL): 🤖
 TensorFlow: 🔧
 Keras: 🧩
