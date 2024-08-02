@@ -50,7 +50,7 @@ If given the three words of a sentence, it should be able to guess the fourth
 4. Open the Jupyter Notebook /Google Colab - Run the Code
 
 ```   
-DL-Next-Word-Prediction.ipynb.ipynb
+DL-Next-Word-Prediction.ipynb
 Pride and Prejudice.txt
 ```
 
